@@ -40,6 +40,7 @@ public class Field {
             for(int x = 0; x < field[i].length; x++) {
                 System.out.print(field[i][x]);
             }
+            
             System.out.println();
         }
     }
