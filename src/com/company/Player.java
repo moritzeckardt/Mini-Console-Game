@@ -1,7 +1,7 @@
 package com.company;
 
 public class Player {
-    //Attributes
+    //Properties
     private final char[] playerSign;
     private int currentRow;
     private int currentColumn;
