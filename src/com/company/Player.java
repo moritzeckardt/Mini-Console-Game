@@ -23,7 +23,6 @@ public class Player {
     }
 
     //Methods
-
     public void moveForward(Field field) {
         if(counter == 0) {
             System.out.println();
