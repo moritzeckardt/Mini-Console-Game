@@ -49,6 +49,7 @@ public class Field {
     public char[][] getField() {
         return field;
     }
+    
     public void setField(char[][] field) {
         this.field = field;
     }
